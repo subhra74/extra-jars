@@ -1,1 +1,0 @@
-mvn install:install-file -Dfile=sshj-0.28.0.jar -DgroupId=com.hierynomus  -DartifactId=sshj -Dversion=0.28.0 -Dpackaging=jar
